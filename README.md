@@ -1,5 +1,5 @@
-# NaNoGenMo
-This is the GitHub project page for the NaNoGenMo.github.io website.
+# NaMoGenMo
+This is the GitHub project page for the NaMoGenMo.github.io website.
 
 Most likely, you're looking for the website itself.  Use the link below.
-# https://nanogenmo.github.io
+# https://namogenmo.github.io
